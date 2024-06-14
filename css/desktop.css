@@ -1,0 +1,19 @@
+@media screen and (min-width: 778px) {
+  /*Overwrite Owl-Carousel Original Setting*/
+  .owl-carousel {
+    width: 700px;
+    margin-inline: auto;
+    bottom: 20px;
+  }
+
+  .player_ctrl {
+    width: 700px;
+    margin-inline: auto;
+    bottom: 20px;
+  }
+
+  .music-menu {
+    position: absolute;
+    left: calc(50% - 350px);
+  }
+}
